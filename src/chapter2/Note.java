@@ -1,0 +1,13 @@
+package chapter2;
+
+import java.util.Scanner;
+
+public class Note {
+	public static void main(String[] args) {
+		
+	
+		
+		Scanner in = new Scanner(System.in);
+		
+	}
+}
